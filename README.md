@@ -41,7 +41,7 @@ _through_ meals.
 
 ## Building Out Our Classes
 
-Let's start by building out the `Customer` class and `Waiter` class.  We want to
+Let's start by building out the `Custom,                                          er` class and `Waiter` class.  We want to
 make sure when building out classes, that there's something to store each
 instance.  That is to say: the `Customer` class should know about every
 `customer` instance that gets created.
